@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+request=${1:23}
+request=${request//%2F//}
+request=${request/&amp;line=/:}
+request=${request/&amp;column=/:}
+request=${request/&line=/:}
+request=${request/&column=/:}
+subl $request

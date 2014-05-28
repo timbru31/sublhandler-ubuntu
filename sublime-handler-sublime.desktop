@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Sublime Text 3 URL Handler sublime
+GenericName=Text Editor
+Comment=Handle URL Scheme sublime://
+Exec=/home/timbru/bin/sublime-handler %u
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/sublime;
+Icon=sublime-text-3
+Categories=TextEditor;Development;Utility;
+Name[en_US]=Sublime Text 3 URL Handler sublime scheme

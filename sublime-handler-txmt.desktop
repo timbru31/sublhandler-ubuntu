@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Sublime Text 3 URL Handler txmt
+GenericName=Text Editor
+Comment=Handle URL Scheme txmt://
+Exec=/home/timbru/bin/sublime-handler %u
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/txmt;
+Icon=sublime-text-3
+Categories=TextEditor;Development;Utility;
+Name[en_US]=Sublime Text 3 URL Handler for txmt scheme
